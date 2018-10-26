@@ -30,4 +30,4 @@ BOM(Bill of Materials):
     sudo apt update
     sudo apt upgrade 
     ```
-1. Q
+1. nella cartella /etc/openhab2/items creare il fil [user]
