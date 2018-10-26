@@ -6,7 +6,10 @@ progetto orientato alla domotica che permette l'accensione e spegnimento delle l
 Il progetto utilizza un **Raspberry P3**, una scheda relè.  
 Il software è basato **Openhabian** e **MQTT** (tramite mosquito)  
 Lattuazione delle luci nell'impianto avviene tramite il servizio cloud di openhub, su una pagina web 
-![openhab screenshot](https://image.ibb.co/eoFCVq/openhab-screen.png)
+![openhab screenshot](https://image.ibb.co/eoFCVq/openhab-screen.png)  
+
+### Stato del progetto
+il primo prototipo funziona, lo sviluppo è in fase di concluso.il progetto è stato di carattere didattico e il corso è terminato. Il repository quindi non è più conclusa
 ** GRASSETTO  
 ° CORSIVO  
 _**GRASSETTO CORSIVO**_
